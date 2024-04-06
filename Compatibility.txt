@@ -1,4 +1,5 @@
 This is going to be an informative list on which devices thelukeweb should work on. Basically all devices that have internet, an internet browser, and a phone that can download, extract, and open files which in this case is thelukeweb should work.
 So here's the list: PC's, Chromebooks, Laptops, Most phones, Maybe tablets??, and if you could get it to run, probably Xbox's.
 For the best experience possible, open thelukeweb on a computer that runs Windows 2000 or newer (as it should support custom fonts that i use).
+TESTED ON: Windows 11 & 10, Windows XP (using firefox 50), and Chromebooks.
 Anyways I hope this was helpful for you.
