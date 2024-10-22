@@ -8,6 +8,3 @@ To check if your device is compatible, read Compatibility.txt
 
 AS OF thelukeweb One REVISION 0 YOU WILL NEED 7Zip TO OPEN THE FILES!!
 7Zip Download: https://www.7-zip.org
-
-Credits to Igor Pavlov for making 7zip
-Credits to Tim Berners-Lee for making HTML exist.
