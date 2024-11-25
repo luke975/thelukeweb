@@ -9,5 +9,6 @@ To check if your device is compatible, read Compatibility.txt
 AS OF thelukeweb One REVISION 0 YOU WILL NEED 7Zip TO OPEN THE FILES!!
 7Zip Download: https://www.7-zip.org
 
-# Where has TLW been?!?!
-Dont worry, ive been working on other projects. I'm currently cooking up R4 and you can see its patch notes on the online version of The Luke Web.
+#R4 IS RELEASED!!!
+thelukeweb One Revision 4 is not out on the web (https://luke975.github.io) and in downloadable form!!
+YIPPEEEEEEEEEEEEEEEEEEEEEE
