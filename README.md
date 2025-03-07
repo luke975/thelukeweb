@@ -1,5 +1,5 @@
 # thelukeweb
-The downloadable TLW is going to be a "dev" download. For example, on TLW release 4 was split up into 2 parts because I didnt do it all at once. Well now, a "halfway" mostlikely unstable updates will be released until the final release is put online, as full builds wont be able to download.
+This github repo is going to be a "dev" download page for TLW One. We need this because TLW release 4 was split up into 2 parts because I didnt do it all at once. Well now, so actual full versions will be released online, mostlikely unstable updates will be released here until the final update is finished, and it will be released online. No, the fully complete update WONT be able to download here (Just download the darn github repo of luke975.github.io)!
 # Decision reversed
 Uhh yeah you can download it again
 But these are going to be more of developer builds for the online version
