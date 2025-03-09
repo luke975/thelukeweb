@@ -1,0 +1,62 @@
+h1 {
+    color: black;
+    text-align: center;
+    font-family: Courier New;
+    background-color: dodgerblue;
+}
+
+p {
+   font-family: Comic Sans MS;
+   text-align: center;
+   text-color: #00008B;
+}
+
+h2 {
+    text-align: center;
+    color: darkblue;
+    border: 8px dotted darkgreen;
+    font-family: Impact;
+}
+
+body {
+      background-color= #32CD32;
+      text-align: center;
+}
+
+.blue {
+   background-color: lightblue;
+   text-align: center;
+   border: 12px ridge darkblue;
+}
+
+div {
+  background-color: #C3FFBF;
+  padding: 50px;
+  margin: 10px;
+  border: 8px solid darkblue;
+  max-width: 50%;
+  float: left;
+  outline-color: orange;
+  outline-style: dotted;
+}
+
+div2 {
+  background-color: dodgerblue;
+  padding: 10px;
+  margin: 10px;
+  border: 8px ridge dodgerblue;
+  max-width: 45%;
+  float: right;
+  outline-color: orange;
+  outline-style: dotted;
+}
+
+div3 {
+  background-color: white;
+  margin: 10px;
+  border: 8px solid darkblue;
+  max-width: 40%;
+  text-align: center;
+  outline-color: orange;
+  outline-style: dotted;
+}
